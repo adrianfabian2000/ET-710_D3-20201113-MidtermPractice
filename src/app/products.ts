@@ -18,11 +18,11 @@ export const products = [
 
 export const r1 = {
   "profile":{
-  "firstName": "Jane",
-  "lastName": "Smith",
+  "firstName": "Adrian",
+  "lastName": "De La Cruz ",
   "isAlive": true,
   "age": 27,
-  "photo": "https://www.w3schools.com/w3images/avatar_hat.jpg",
+  "photo": "https://scontent-lga3-2.xx.fbcdn.net/v/t1.0-9/29313664_1597247116979302_6265820740369514496_n.jpg?_nc_cat=107&ccb=2&_nc_sid=09cbfe&_nc_ohc=rtLf86N_YB8AX_Mgt09&_nc_ht=scontent-lga3-2.xx&oh=8c38cff4d89b9a6bf23393e4f45af3a5&oe=5FDBB75E",
   "profession": "Designer",
   "address": {
     "streetAddress": "21 2nd Street",
@@ -30,12 +30,12 @@ export const r1 = {
     "state": "NY",
     "postalCode": "10021-3100",
     "country": "USA",
-    "email": "ex@mail.com"
+    "email": "adrian20@hotmail.com"
   },
   "phoneNumbers": [
     {
       "type": "home",
-      "number": "212 555-1234"
+      "number": "646-6736162"
     },
     {
       "type": "office",
@@ -50,10 +50,10 @@ export const r1 = {
 	
 		{
 		"language": "Spanish",
-		"level": "50%"
+		"level": "100%"
 	},
 		{
-		"language": "German",
+		"language": "Japanese",
 		"level": "25%"
 	}
 	
@@ -62,12 +62,12 @@ export const r1 = {
 "skills":[
 	{
 		"skill": "Adobe Photoshop",
-		"level": "95%"
+		"level": "100%"
 	},
 	
 		{
 		"skill": "Photography",
-		"level": "80%"
+		"level": "95%"
 	},
 		{
 		"skill": "Illustrator",
@@ -75,7 +75,7 @@ export const r1 = {
 	},
 	
 		{
-		"skill": "Media",
+		"skill": "Adobe After Effects",
 		"level": "50%"
 	}
 	],
