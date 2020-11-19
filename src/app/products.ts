@@ -75,8 +75,12 @@ export const r1 = {
 	},
 	
 		{
-		"skill": "Adobe After Effects",
+		"skill": "Adobe After Effects ",
 		"level": "50%"
+	},
+  		{
+		"skill": "Adobe Premier Pro",
+		"level": "30%"
 	}
 	],
 
