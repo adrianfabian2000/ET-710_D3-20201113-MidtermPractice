@@ -27,7 +27,6 @@ import { GraphicDesignComponent } from './graphic-design/graphic-design.componen
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
       { path: 'products/:productId', component: ProductDetailsComponent },
-      { path: 'resume', component: MyResumeComponent },
       { path: 'cart', component: CartComponent },
       { path: 'shipping', component: ShippingComponent },
       { path: 'graphic', component: GraphicDesignComponent },
